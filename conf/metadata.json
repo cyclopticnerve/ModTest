@@ -1,0 +1,13 @@
+{
+    "PP_VERSION": "0.1.0",
+    "PP_SHORT_DESC": "ModTest description",
+    "PP_KEYWORDS": "key_1, key2,key3",
+    "PP_PY_DEPS": {
+	"dep_1": "dep1",
+	"dep_2": "dep2"
+    },
+    "PP_SYS_DEPS": "sys_dep_1, sys_dep_2,sys_dep3",
+    "PP_GUI_CATEGORIES": "",
+    "PP_GUI_EXEC": "",
+    "PP_GUI_ICON": ""
+}
